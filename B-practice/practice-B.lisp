@@ -19,7 +19,7 @@ if there were an empty string between them."
                    (split-by-one-space l))))))
 
 
-;; abeumont implementation
+;; abeaumont's implementation
 ;(require 'asdf)
 ;(asdf:oos 'asdf:load-op :split-sequence)
 

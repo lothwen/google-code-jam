@@ -10,7 +10,7 @@ for i in range(n):
     l.reverse()
     print "Case #%d: %s" % ((i+1), " ".join(l))
 
-''' abeumont's implementation
+''' abeaumont's implementation
 from sys import stdin as i
 for j in range(int(i.readline())):
     print "Case #%d: %s" % (j+1, ' '.join(reversed(i.readline()[:-1].split(' '))))
